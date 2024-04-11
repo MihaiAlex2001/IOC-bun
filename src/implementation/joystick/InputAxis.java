@@ -5,10 +5,7 @@ import org.intellij.lang.annotations.Identifier;
 import java.lang.reflect.Field;
 import java.util.Arrays;
 
-/**
- * Created by Andreea Draghici on 05.04.2023
- * Name of project: BubbleShooter
- */
+
 public class InputAxis {
 
     public static final int EMPTY = -1;

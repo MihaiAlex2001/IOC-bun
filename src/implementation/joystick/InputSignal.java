@@ -12,10 +12,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Objects;
 
-/**
- * Created by Andreea Draghici on 05.04.2023
- * Name of project: BubbleShooter
- */
+
 public class InputSignal implements KeyListener, MouseMotionListener, MouseListener, FocusListener {
 
 

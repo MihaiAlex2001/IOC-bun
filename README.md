@@ -1,10 +1,9 @@
 # BubbleShooterGame
 
-Team Members: Draghici Andreea and Ciontu Claudia
+Echipa: Maciuca Mihai si Lica Andreea
 
 ## Introduction
 ---------------------------
-- Human Computer Interaction Project , 4-th year
 - Java Swing Application 
 - IDEA: IntelliJ IDEA
 - Using JInput API.
@@ -21,4 +20,4 @@ Team Members: Draghici Andreea and Ciontu Claudia
 ## History
 -----------------------------
 
-- Version 1.0 - Initial version of release
+- Version 1 - Initial version of release
